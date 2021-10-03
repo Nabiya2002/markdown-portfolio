@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Music
+  * Harry Styles
+*Movies
+  * Roman Holiday
+*Books
+  * The Bell Jar
